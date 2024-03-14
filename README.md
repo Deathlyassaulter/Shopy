@@ -1,4 +1,4 @@
-# Shoooopy
+# Shopy
 
 This is a shopping app that allows users to order products, search products by categories and size, and sort products based on price and date of update.
 
